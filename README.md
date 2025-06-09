@@ -59,8 +59,8 @@ python3 -m flask run
 
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/RincyMariamThomas"><img src="https://avatars.githubusercontent.com/u/51988830?v=4" width="100px;" alt=""/><br /><sub><b>RincyMariamThomas</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/humblelad"><img src="https://avatars.githubusercontent.com/u/30574278?v=4" width="100px;" alt=""/><br /><sub><b>humblelad</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/VasanthVanan"><img src="https://avatars.githubusercontent.com/u/30904627?v=4" width="100px;" alt=""/><br /><sub><b>Vasanth Vanan</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/gpmore"><img src="https://avatars.githubusercontent.com/u/107632464?v=4" width="100px;" alt=""/><br /><sub><b>gpmore</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/RincyMariamThomas"><img src="https://avatars.githubusercontent.com/u/51988830?v=4" width="100px;" alt=""/><br /><sub><b>RincyMariamThomas</b></sub></a><br /></td>
 </table>
